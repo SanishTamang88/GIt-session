@@ -1,1 +1,3 @@
 # gitworkshop2025
+Name: Sanish Tamang 
+What i learned today is ...... 
